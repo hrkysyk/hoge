@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hoge", "Assembly-CSharp-firstpass.csproj", "{D8650230-6ADF-1985-4491-B8BFE99C3A2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hoge", "Assembly-CSharp.csproj", "{F424F24B-0FF0-7C99-321C-7483177243CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hoge", "Assembly-CSharp-Editor.csproj", "{7336874A-6FF1-CE5F-73DC-83B76360AD78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{D8650230-6ADF-1985-4491-B8BFE99C3A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8650230-6ADF-1985-4491-B8BFE99C3A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8650230-6ADF-1985-4491-B8BFE99C3A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F424F24B-0FF0-7C99-321C-7483177243CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F424F24B-0FF0-7C99-321C-7483177243CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F424F24B-0FF0-7C99-321C-7483177243CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F424F24B-0FF0-7C99-321C-7483177243CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7336874A-6FF1-CE5F-73DC-83B76360AD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7336874A-6FF1-CE5F-73DC-83B76360AD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7336874A-6FF1-CE5F-73DC-83B76360AD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7336874A-6FF1-CE5F-73DC-83B76360AD78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

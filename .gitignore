@@ -9,3 +9,6 @@ sysinfo.txt
 Library
 Temp
 Packages
+obj
+.vs
+*.csproj
